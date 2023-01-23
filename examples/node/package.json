@@ -1,0 +1,11 @@
+{
+  "name": "node-elk",
+  "version": "1.0.0",
+  "description": "Elastic search examples",
+  "main": "index.js",
+  "author": "abhi91.edu@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "@elastic/elasticsearch": "^8.6.0"
+  }
+}
